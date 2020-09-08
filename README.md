@@ -1,4 +1,4 @@
-# email-CheckUp
+# email-checkup
 
 A email verification package. Disposable email filter and verifies that the email exists.
 
@@ -7,7 +7,7 @@ A email verification package. Disposable email filter and verifies that the emai
 
 ## Installation
 
-Use the package manager [npm](https://www.npmjs.com/) to install email-CheckUp.
+Use the package manager [npm](https://www.npmjs.com/) to install email-checkup.
 
 ```bash
 npm i email-checkup
@@ -16,7 +16,7 @@ npm i email-checkup
 ## Usage
 
 ```javascript
-const emailCheckUp = require("email-CheckUp");
+const emailCheckUp = require("email-checkup");
 
 emailCheckUp({
     mail: "youremailadresse@mail.com", //email to check
@@ -29,7 +29,7 @@ emailCheckUp({
 
 ## Options
 
-email-CheckUp supports 3 options :
+email-checkup supports 3 options :
 
 * *blacklist* - _true / false_ (Defaults to true). This option is optional. It enables a blacklist of more than 360 disposable email sites.
 * *whitelist* - _array_ (Defaults : ["com", "be", "ch", "fr"]). This option is optional. It enables a whitelist of all domains accepted in the email.
