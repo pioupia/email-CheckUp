@@ -1,6 +1,6 @@
 {
   "name": "email-CheckUp",
-  "version": "0.0.3",
+  "version": "0.8.0",
   "description": "A email verification package. Disposable email filter and verifies that the email exists.",
   "main": "index.js",
   "keywords": [
