@@ -1,0 +1,21 @@
+{
+  "name": "email-CheckUp",
+  "version": "0.0.3",
+  "description": "A email verification package. Disposable email filter and verifies that the email exists.",
+  "main": "index.js",
+  "keywords": [
+    "emailChecker",
+    "mail",
+    "anti-fake-mail",
+    "email-CheckUp"
+  ],
+  "author": "Pioupia",
+  "license": "MIT",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://https://github.com/pioupia/emailChecker.git"
+  }
+}
