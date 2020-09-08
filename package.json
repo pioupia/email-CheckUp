@@ -1,5 +1,5 @@
 {
-  "name": "email-CheckUp",
+  "name": "email-checkup",
   "version": "0.8.0",
   "description": "A email verification package. Disposable email filter and verifies that the email exists.",
   "main": "index.js",
@@ -16,6 +16,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://https://github.com/pioupia/email-CheckUp.git"
+    "url": "git://https://github.com/pioupia/email-checkup.git"
   }
 }
