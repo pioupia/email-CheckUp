@@ -21,7 +21,8 @@ const emailcheckup = require("email-checkup");
 emailcheckup({
     mail: "youremailadresse@mail.com", //email to check
     blacklist: false, //by default is true.
-    whitelist: ["com", "be", "ch", "fr"] //By default is ["com", "be", "ch", "fr"]
+    whitelist: ["com", "be", "ch", "fr"], //By default is ["com", "be", "ch", "fr"]
+    exists: true //by default is false.
 }).then(result => {
     console.log(result) // Return "true" if the email is real. And return "false" if the email is not real Warning, the package does not check if the email exists (for now)!
 })
