@@ -1,28 +1,4 @@
 {
-  "_from": "email-checkup",
-  "_id": "email-checkup@0.8.0",
-  "_inBundle": false,
-  "_integrity": "sha512-G4LAki1u5H9oYBt8vHxYz4Ex54BKiISSsVYpOmaeyWqyOgT/5PzT+b/9aisWwMhBKkbV2KUrojSZ1o11JRrqAg==",
-  "_location": "/email-checkup",
-  "_phantomChildren": {},
-  "_requested": {
-    "type": "tag",
-    "registry": true,
-    "raw": "email-checkup",
-    "name": "email-checkup",
-    "escapedName": "email-checkup",
-    "rawSpec": "",
-    "saveSpec": null,
-    "fetchSpec": "latest"
-  },
-  "_requiredBy": [
-    "#USER",
-    "/"
-  ],
-  "_resolved": "https://registry.npmjs.org/email-checkup/-/email-checkup-0.8.0.tgz",
-  "_shasum": "313896d4c142eca761a4b9be05e11198013fda82",
-  "_spec": "email-checkup",
-  "_where": "/home/pierre/Bureau/Intact Zone",
   "author": {
     "name": "Pioupia"
   },
